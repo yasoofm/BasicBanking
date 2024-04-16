@@ -1,0 +1,17 @@
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\bin\Debug\net8.0\BasicBanking.exe
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\bin\Debug\net8.0\BasicBanking.deps.json
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\bin\Debug\net8.0\BasicBanking.runtimeconfig.json
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\bin\Debug\net8.0\BasicBanking.dll
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\bin\Debug\net8.0\BasicBanking.pdb
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.AssemblyInfoInputs.cache
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.AssemblyInfo.cs
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.csproj.CoreCompileInputs.cache
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.dll
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\refint\BasicBanking.dll
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.pdb
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.genruntimeconfig.cache
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\ref\BasicBanking.dll
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBanking.csproj.AssemblyReference.cache
+C:\Users\ytman\Desktop\ASP .NET\BasicBanking\obj\Debug\net8.0\BasicBan.9C64DF26.Up2Date

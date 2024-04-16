@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D0CE2-7505-4740-A459-8B119D26C27C}|BasicBanking.csproj|c:\\users\\ytman\\desktop\\asp .net\\basicbanking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D0CE2-7505-4740-A459-8B119D26C27C}|BasicBanking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D0CE2-7505-4740-A459-8B119D26C27C}|BasicBanking.csproj|c:\\users\\ytman\\desktop\\asp .net\\basicbanking\\basicbanking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C10D0CE2-7505-4740-A459-8B119D26C27C}|BasicBanking.csproj|solutionrelative:basicbanking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10D0CE2-7505-4740-A459-8B119D26C27C}|BasicBanking.csproj|c:\\users\\ytman\\desktop\\asp .net\\basicbanking\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10D0CE2-7505-4740-A459-8B119D26C27C}|BasicBanking.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicBanking",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\BasicBanking.csproj",
+              "RelativeDocumentMoniker": "BasicBanking.csproj",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\BasicBanking.csproj",
+              "RelativeToolTip": "BasicBanking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T07:50:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:42:59.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:17:10.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

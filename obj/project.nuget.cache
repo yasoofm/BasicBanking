@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ppyj7Mo2SAhvdOyBMjLTnvt44sNbzxA0obmHiG++FLvzn3Ra4wsL7Ld4wqh0zKW+u2WCfqmihvaVlvDmMc3p3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ytman\\Desktop\\ASP .NET\\BasicBanking\\BasicBanking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ytman\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\ytman\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
